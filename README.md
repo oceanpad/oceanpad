@@ -1,5 +1,5 @@
 <h2> Hi, I'm FRANK! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://github.com/oceanpad/oceanpad/blob/master/tenor.gif" width="230">
 <p><em>Full Stack Software Enginner<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>CEO & FOUNDER at <a href="https://hailyeni.com/">HAILYENI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
