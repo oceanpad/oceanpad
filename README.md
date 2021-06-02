@@ -8,11 +8,10 @@
 ```javascript
 const frank = {
   code: [Python, Javascript, NodeJs, TypeScript, Java, Scala, HTML, CSS],
-  frameworks: [Flask, Django, Celery, Express, Angular, React, Spring, Play Framework],
+  frameworks: [Flask, Django, Celery, Express, Fastify, serverless, Angular, ReactJs, ReactNative, Ionic, Spring, Play Framework],
   tools: [Mac, Ubuntu, VIM, Tmux, VSCode, Github],
   architecture: ["AWS Full Stack", "ECS", "EC2"],
-  databases: ["Mysql", "Postgres", "MongoDB", "Redis"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  databases: ["Mysql", "Postgres", "MongoDB", "Redis"]
 }
 ```
 
